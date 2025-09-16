@@ -46,26 +46,23 @@ RT adalah singkatan dari Rukun Tetangga, sedangkan RW adalah singkatan dari Ruku
 RT biasa diikuti oleh nomor atau kode yang menunjukkan unit terkecil dalam sistem administrasi wilayah di Indonesia, begitu juga dengan RW.
 contoh: RT 1 RW 2, RT 3, RT 4A, RT 17,RT 5, RW 1, RW 4,RW 14 dsb.
 
-berikut adalah contoh format alamat yang benar:
+format alamat adalah: Dukuh RT RW, Desa/Kelurahan, Kecamatan, Kabupaten.
+Data JSON alamat.json yang saya berikan adalah daftar resmi alamat (kecamatan, desa, dukuh) di Kabupaten Sragen yang bisa anda gunakan sebagai referensi.
 
+koreksi bagian Alamat saja.
+Untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
+contoh:
+{"No": "5", "Alamat": "PIJILAN RT 16 RW 1,JAMBANAN, SIDOHARJO, SRAGEN"}
+
+Sajikan hasilnya dalam format JSON.
+jika tidak ada yang perlu dikoreksi, cukup balas dengan format JSON kosong: []
+
+berikut adalah contoh format alamat yang benar:
 ["PIJILAN RT 16 RW 1,JAMBANAN, SIDOHARJO, SRAGEN"
 "TARAMAN RT 12, TARAMAN, SIDOHARJO SRAGEN"
 "PIJILAN RT 4A, JAMBANAN, SIDOHARJO, SRAGEN"
 "SINGOPADU RT 6, SINGOPADU, SIDOHARJO, SRAGEN"
 "GROMPOLAN, JAMBANAN, SIDOHARJO, SRAGEN"]
-
-format alamat adalah: Dukuh RT RW, Desa/Kelurahan, Kecamatan, Kabupaten.
-Data JSON alamat.json yang saya berikan adalah daftar resmi alamat (kecamatan, desa, dukuh) di Kabupaten Sragen yang bisa anda gunakan sebagai referensi.
-
-Fokus anda adalah mengkoreksi alamat.
-
-Untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
-contoh:
-{"No": "5", "Alamat": "PIJILAN RT 16 RW 1,JAMBANAN, SIDOHARJO, SRAGEN"}
-dan seterusnya
-
-Sajikan hasilnya dalam format JSON.
-jika tidak ada yang perlu dikoreksi, cukup balas dengan format JSON kosong: []
 """
 
 prompt2 = """
@@ -76,7 +73,7 @@ Fokus anda ada pada Nama dan Tanggal kunjungan.
 Anda sedang memproses data pasien dari Indonesia, sehingga Anda mengenali struktur nama yang umum.
 
 Dibagian tanggal kunjungan tahunnya 2025 bukan null.
-Tanggal kunjungan kalo dari foto yang biasa tulisannya paling gedhe atau kadang pake spidol, menjelaskan tanggal kunjungan untuk data dibawahnya dan seterusnya sampai ketemu tanggal kunjungan baru lainnya.
+Tanggal kunjungan kalo dari foto, yang biasa tulisannya paling gedhe atau kadang pake spidol, menjelaskan tanggal kunjungan untuk data dibawah bawahnya.
 
 untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
 contoh:
