@@ -1,0 +1,2514 @@
+[
+{
+  "kecamatan": "Gemolong",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Brangkal",
+      "dukuh": [
+        "Brangkal",
+        "Gondangrejo",
+        "Jatirejo",
+        "Karang",
+        "Keben",
+        "Kramat",
+        "Ngargorejo",
+        "Ngargosari"
+      ]
+    },
+    {
+      "nama_desa": "Gedangan",
+      "dukuh": [
+        "Banjarejo",
+        "Gedangan",
+        "Gedangan Asri",
+        "Gondang Tani",
+        "Ngeseng"
+      ]
+    },
+    {
+      "nama_desa": "Gemolong",
+      "kelurahan": true,
+      "dukuh": [
+        "Candi",
+        "Gemolong",
+        "Kauman",
+        "Klodran",
+        "Kwagean",
+        "Nali",
+        "Sidomulyo",
+        "Sidorejo"
+      ]
+    },
+    {
+      "nama_desa": "Geneng Duwur",
+      "dukuh": [
+        "Geneng Duwur",
+        "Jatirejo",
+        "Karanganyar",
+        "Karangrejo",
+        "Ngundaan",
+        "Poko",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Jatibatur",
+      "dukuh": [
+        "Batur",
+        "Batur Baru",
+        "Giyanti",
+        "Jati",
+        "Jatisari",
+        "Ngropoh"
+      ]
+    },
+    {
+      "nama_desa": "Jenalas",
+      "dukuh": [
+        "Dukuh",
+        "Jenalas",
+        "Kendalsari",
+        "Kendung",
+        "Kopen",
+        "Mendungsari",
+        "Ngaringan",
+        "Paren",
+        "Tawangsari"
+      ]
+    },
+    {
+      "nama_desa": "Kalangan",
+      "dukuh": [
+        "Bondalem",
+        "Bulurejo",
+        "Jetak",
+        "Kalangan",
+        "Karangrejo",
+        "Ngablak",
+        "Nglebak",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Kaloran",
+      "dukuh": [
+        "Bulusari",
+        "Kaloran",
+        "Pangrawan",
+        "Sendangrejo"
+      ]
+    },
+    {
+      "nama_desa": "Nganti",
+      "dukuh": [
+        "Gondang",
+        "Jambeyan",
+        "Nganti",
+        "Sribit"
+      ]
+    },
+    {
+      "nama_desa": "Pelemrejo",
+      "dukuh": [
+        "Gunungsari",
+        "Klentang",
+        "Ngembat",
+        "Pelemrejo",
+        "Tegalsari",
+        "Tirtomoyo"
+      ]
+    },
+    {
+      "nama_desa": "Purworejo",
+      "dukuh": [
+        "Badran",
+        "Banjarsari",
+        "Karang",
+        "Karangtengah",
+        "Mojorejo",
+        "Ngabeyan",
+        "Ngrandu",
+        "Purworejo"
+      ]
+    },
+    {
+      "nama_desa": "Saren",
+      "dukuh": [
+        "Bulusari",
+        "Jambusari",
+        "Saren",
+        "Tegalsari"
+      ]
+    },
+    {
+      "nama_desa": "Tegaldowo",
+      "dukuh": [
+        "Bandung",
+        "Bangsren",
+        "Bulusari",
+        "Doyosari",
+        "Gondang",
+        "Jambeyan",
+        "Karangrejo",
+        "Krompakan",
+        "Sawahan",
+        "Tegaldowo"
+      ]
+    },
+    {
+      "nama_desa": "Tenggak",
+      "dukuh": [
+        "Dukuh",
+        "Gembong",
+        "Gondangrejo",
+        "Grobagan",
+        "Karanganyar",
+        "Karangrejo",
+        "Ngasinan",
+        "Tenggak"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Gesi",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Blangu",
+      "dukuh": [
+        "Blangu",
+        "Geneng",
+        "Godegan",
+        "Karang",
+        "Pungkruk",
+        "Sendang"
+      ]
+    },
+    {
+      "nama_desa": "Gesi",
+      "dukuh": [
+        "Gesi",
+        "Grasak",
+        "Mulyorejo",
+        "Sambirejo"
+      ]
+    },
+    {
+      "nama_desa": "Pilangsari",
+      "dukuh": [
+        "Kedungbunder",
+        "Miri",
+        "Pilangsari",
+        "Wonosari"
+      ]
+    },
+    {
+      "nama_desa": "Poleng",
+      "dukuh": [
+        "Dunggabus",
+        "Kedungbulu",
+        "Ngaringan",
+        "Poleng",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Slendro",
+      "dukuh": [
+        "Cengklik",
+        "Dayu",
+        "Grasak",
+        "Jatirejo",
+        "Selorejo",
+        "Slendro",
+        "Tawengan"
+      ]
+    },
+    {
+      "nama_desa": "Srawung",
+      "dukuh": [
+        "Demplo",
+        "Srawung",
+        "Sumberejo",
+        "Tempel"
+      ]
+    },
+    {
+      "nama_desa": "Tanggan",
+      "dukuh": [
+        "Butuh",
+        "Cermo",
+        "Jaten",
+        "Pacing",
+        "Sukosari",
+        "Tanggan"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Gondang",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Bumiaji",
+      "dukuh": [
+        "Bumiaji",
+        "Grasak",
+        "Jatirejo",
+        "Ngledok",
+        "Sumber"
+      ]
+    },
+    {
+      "nama_desa": "Glonggong",
+      "dukuh": [
+        "Glonggong",
+        "Glonggong Kulon",
+        "Gondanglegi",
+        "Jagan",
+        "Pondok",
+        "Winong"
+      ]
+    },
+    {
+      "nama_desa": "Gondang",
+      "dukuh": [
+        "Candi",
+        "Gondang",
+        "Gondang Tani",
+        "Karangasem",
+        "Kauman",
+        "Ngadirejo",
+        "Padas",
+        "Sidomulyo"
+      ]
+    },
+    {
+      "nama_desa": "Kaliwedi",
+      "dukuh": [
+        "Dongol",
+        "Jenggrik",
+        "Kaliwedi",
+        "Mulyorejo",
+        "Ngampel"
+      ]
+    },
+    {
+      "nama_desa": "Plosorejo",
+      "dukuh": [
+        "Grenjeng",
+        "Jarak",
+        "Pakis",
+        "Plosorejo",
+        "Pucung",
+        "Sabak"
+      ]
+    },
+    {
+      "nama_desa": "Srimulyo",
+      "dukuh": [
+        "Balak",
+        "Butuh",
+        "Jatiwayang",
+        "Ngampel",
+        "Patoman",
+        "Srimulyo",
+        "Srunggo"
+      ]
+    },
+    {
+      "nama_desa": "Tegalrejo",
+      "dukuh": [
+        "Karang",
+        "Ngudirejo",
+        "Pacing",
+        "Sejok",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Tunggul",
+      "dukuh": [
+        "Bener",
+        "Grasak",
+        "Ngablak",
+        "Sidorejo",
+        "Tunggul"
+      ]
+    },
+    {
+      "nama_desa": "Wonosari",
+      "dukuh": [
+        "Bonagung",
+        "Garut",
+        "Ngrandu",
+        "Pangkal",
+        "Sidomulyo",
+        "Wonosari"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Jenar",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Banyurip",
+      "dukuh": [
+        "Banyurip",
+        "Bugel",
+        "Jati",
+        "Jetis",
+        "Sidorejo"
+      ]
+    },
+    {
+      "nama_desa": "Dawung",
+      "dukuh": [
+        "Dawung",
+        "Jabung",
+        "Karangwaru",
+        "Sawit",
+        "Sidodadi",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Japoh",
+      "dukuh": [
+        "Bulu",
+        "Corot",
+        "Japoh",
+        "Ringinanom"
+      ]
+    },
+    {
+      "nama_desa": "Jenar",
+      "dukuh": [
+        "Badran",
+        "Bugel",
+        "Jenar",
+        "Margomulyo",
+        "Ngelo",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Kandangsapi",
+      "dukuh": [
+        "Grasak",
+        "Jatiharjo",
+        "Kandangsapi",
+        "Wates"
+      ]
+    },
+    {
+      "nama_desa": "Mlarak",
+      "dukuh": [
+        "Grobogan",
+        "Mlarak",
+        "Sarirejo"
+      ]
+    },
+    {
+      "nama_desa": "Ngepringan",
+      "dukuh": [
+        "Dukuh",
+        "Gebang",
+        "Ngelo",
+        "Ngepringan",
+        "Plosorejo"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Kalijambe",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Banaran",
+      "dukuh": [
+        "Banaran",
+        "Ngelo",
+        "Rejosari"
+      ]
+    },
+    {
+      "nama_desa": "Bukuran",
+      "dukuh": [
+        "Bapang",
+        "Bukuran",
+        "Jipangan",
+        "Nangsri",
+        "Nglangak",
+        "Paras"
+      ]
+    },
+    {
+      "nama_desa": "Donoyudan",
+      "dukuh": [
+        "Bogorejo",
+        "Donoyudan",
+        "Dukuh",
+        "Jayan",
+        "Karang",
+        "Ngrandu",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Jetis Karangpung",
+      "dukuh": [
+        "Bejen",
+        "Jetis",
+        "Karangpung",
+        "Ngelo",
+        "Nglaban"
+      ]
+    },
+    {
+      "nama_desa": "Kalimacan",
+      "dukuh": [
+        "Butuh",
+        "Kalimacan",
+        "Karangrejo",
+        "Ngadirejo"
+      ]
+    },
+    {
+      "nama_desa": "Karangjati",
+      "dukuh": [
+        "Grogolan",
+        "Kalijambe",
+        "Karangjati",
+        "Ngrawan"
+      ]
+    },
+    {
+      "nama_desa": "Keden",
+      "dukuh": [
+        "Cungul",
+        "Keden",
+        "Ngrukun",
+        "Wonokerso"
+      ]
+    },
+    {
+      "nama_desa": "Krikilan",
+      "dukuh": [
+        "Bubak",
+        "Grogolan",
+        "Krikilan",
+        "Ngampo"
+      ]
+    },
+    {
+      "nama_desa": "Ngebung",
+      "dukuh": [
+        "Barong",
+        "Ngebung",
+        "Nggembong",
+        "Pablengan"
+      ]
+    },
+    {
+      "nama_desa": "Sambirejo",
+      "dukuh": [
+        "Grasak",
+        "Kalijambe",
+        "Ngeseng",
+        "Sambirejo",
+        "Sonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Samupuro",
+      "dukuh": [
+        "Gatak",
+        "Gondangrejo",
+        "Karang",
+        "Samupuro",
+        "Tegalrejo",
+        "Wonosari"
+      ]
+    },
+    {
+      "nama_desa": "Saren",
+      "dukuh": [
+        "Jengglong",
+        "Sangiran",
+        "Saren"
+      ]
+    },
+    {
+      "nama_desa": "Tegalombo",
+      "dukuh": [
+        "Bulu",
+        "Jarak",
+        "Jati",
+        "Ngelo",
+        "Tegalombo"
+      ]
+    },
+    {
+      "nama_desa": "Wonorejo",
+      "dukuh": [
+        "Goser",
+        "Kaliwuni",
+        "Wonorejo"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Karangmalang",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Guworejo",
+      "dukuh": [
+        "Celengan",
+        "Guworejo",
+        "Mageru",
+        "Margorejo",
+        "Mulyorejo",
+        "Ngajen",
+        "Sumber"
+      ]
+    },
+    {
+      "nama_desa": "Jurangjero",
+      "dukuh": [
+        "Bunder",
+        "Butuh",
+        "Jagan",
+        "Jurangjero",
+        "Ngringin",
+        "Sono"
+      ]
+    },
+    {
+      "nama_desa": "Kertonegoro",
+      "kelurahan": true,
+      "dukuh": [
+        "Bangunrejo",
+        "Candi Asri",
+        "Kertonegoro",
+        "Margomulyo"
+      ]
+    },
+    {
+      "nama_desa": "Kroyo",
+      "dukuh": [
+        "Dongdin",
+        "Jetak",
+        "Karang",
+        "Kroyo",
+        "Mbrumbung",
+        "Ngelo",
+        "Tegalsari"
+      ]
+    },
+    {
+      "nama_desa": "Mojorejo",
+      "dukuh": [
+        "Bangunrejo",
+        "Garut",
+        "Gedangan",
+        "Jagan",
+        "Majan",
+        "Mojorejo",
+        "Ngablak",
+        "Siderojo",
+        "Teguhan"
+      ]
+    },
+    {
+      "nama_desa": "Pelemgadung",
+      "dukuh": [
+        "Dayu",
+        "Gadung",
+        "Ngronggah",
+        "Pelem",
+        "Pilang",
+        "Sumber",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Plosokerep",
+      "dukuh": [
+        "Boro",
+        "Cengklik",
+        "Plosokerep",
+        "Plosorejo",
+        "Sumberejo"
+      ]
+    },
+    {
+      "nama_desa": "Plumbungan",
+      "kelurahan": true,
+      "dukuh": [
+        "Gendingan",
+        "Jetis",
+        "Plumbungan"
+      ]
+    },
+    {
+      "nama_desa": "Puro",
+      "dukuh": [
+        "Gembong",
+        "Ngaren",
+        "Popoh",
+        "Puro",
+        "Tegalrejo",
+        "Tirisan"
+      ]
+    },
+    {
+      "nama_desa": "Saradan",
+      "dukuh": [
+        "Buan",
+        "Duwet",
+        "Ngandon",
+        "Saradan"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Kedawung",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Bendungan",
+      "dukuh": [
+        "Bendungan",
+        "Butuh",
+        "Grasak",
+        "Jatirejo",
+        "Ngabean",
+        "Soko"
+      ]
+    },
+    {
+      "nama_desa": "Celep",
+      "dukuh": [
+        "Celep",
+        "Gagan",
+        "Karang",
+        "Kedungperahu",
+        "Ngadirejo"
+      ]
+    },
+    {
+      "nama_desa": "Jambangan",
+      "dukuh": [
+        "Gantiwarno",
+        "Jambangan",
+        "Kedungjenggot",
+        "Sidorejo"
+      ]
+    },
+    {
+      "nama_desa": "Jenggrik",
+      "dukuh": [
+        "Bodeh",
+        "Jenggrik",
+        "Karanganyar",
+        "Mojoranu",
+        "Plosorejo"
+      ]
+    },
+    {
+      "nama_desa": "Karangpelem",
+      "dukuh": [
+        "Gebang",
+        "Jatisari",
+        "Karangpelem",
+        "Kawis",
+        "Kepoh",
+        "Ngrandu",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Kedawung",
+      "dukuh": [
+        "Bonggo",
+        "Kedawung",
+        "Ledok",
+        "Miri",
+        "Ngangruk"
+      ]
+    },
+    {
+      "nama_desa": "Mojodoyong",
+      "dukuh": [
+        "Dayu",
+        "Karangtengah",
+        "Kepu",
+        "Mojodoyong",
+        "Ngipang",
+        "Pilang",
+        "Pondok",
+        "Prayunan",
+        "Sribit"
+      ]
+    },
+    {
+      "nama_desa": "Mojokerto",
+      "dukuh": [
+        "Banjar",
+        "Jatimulyo",
+        "Keden",
+        "Mojokerto",
+        "Ngukuman",
+        "Sugihan"
+      ]
+    },
+    {
+      "nama_desa": "Pengkok",
+      "dukuh": [
+        "Brangkal",
+        "Bringin",
+        "Gebang",
+        "Jatirejo",
+        "Ngledok",
+        "Pengkok",
+        "Rejosari"
+      ]
+    },
+    {
+      "nama_desa": "Wonokerso",
+      "dukuh": [
+        "Brogo",
+        "Jantran",
+        "Karangwaru",
+        "Pungsari",
+        "Talang",
+        "Wonokerso"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Masaran",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Dawungan",
+      "dukuh": [
+        "Bendungan",
+        "Bomati",
+        "Dawungan",
+        "Donglo",
+        "Gelangan",
+        "Jengglong",
+        "Mojoroto",
+        "Ngrombo",
+        "Ngronggot",
+        "Sambirejo",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Gebang",
+      "dukuh": [
+        "Cungul",
+        "Gebang Kidul",
+        "Gebang Loji",
+        "Gebang Lor",
+        "Gebang Tengah",
+        "Gelangan",
+        "Katukan",
+        "Kedungwaduk",
+        "Lebak",
+        "Ngasem",
+        "Ngasinan",
+        "Ngasinan Kulon",
+        "Ngunut",
+        "Pucuk",
+        "Purworejo",
+        "Sumberrejo",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Jati",
+      "dukuh": [
+        "Bibis",
+        "Condong",
+        "Jati",
+        "Manggis",
+        "Masaran",
+        "Masaran Kulon",
+        "Ngijo"
+      ]
+    },
+    {
+      "nama_desa": "Karangmalang",
+      "dukuh": []
+    },
+    {
+      "nama_desa": "Kliwonan",
+      "dukuh": [
+        "Banjar",
+        "Bayur",
+        "Beku",
+        "Bekon",
+        "Dalangan",
+        "Dukuh",
+        "Gelang",
+        "Kliwonan",
+        "Kuyang",
+        "Pencol"
+      ]
+    },
+    {
+      "nama_desa": "Krebet",
+      "dukuh": [
+        "Balongsari",
+        "Bulusari",
+        "Craken",
+        "Gebang",
+        "Gemblak",
+        "Kedungbulus",
+        "Krebet",
+        "Mulyorejo",
+        "Ngelo",
+        "Ngrombo",
+        "Randukuning",
+        "Saradan"
+      ]
+    },
+    {
+      "nama_desa": "Krikilan",
+      "dukuh": [
+        "Banjarsari",
+        "Karangbendo",
+        "Karangnongko",
+        "Karangwaru",
+        "Krikilan",
+        "Ngampon",
+        "Pagak",
+        "Pandak Kulon",
+        "Pandak Wetan",
+        "Prampalan",
+        "Puntukrejo",
+        "Rejowinangun",
+        "Sidomulyo"
+      ]
+    },
+    {
+      "nama_desa": "Masaran",
+      "dukuh": [
+        "Bangunrejo",
+        "Bonan",
+        "Craken Tirtomoyo",
+        "Karangjati",
+        "Karangnongko",
+        "Kauman",
+        "Masaran",
+        "Ngijo",
+        "Pilang",
+        "Rejowinangun",
+        "Sambirejo",
+        "Tegalrejo",
+        "Tegalasri",
+        "Wirengan"
+      ]
+    },
+    {
+      "nama_desa": "Pilang",
+      "dukuh": [
+        "Bejingan",
+        "Jantran",
+        "Jati",
+        "Klembon",
+        "Pilang",
+        "Pilang Lor",
+        "Wirorejan"
+      ]
+    },
+    {
+      "nama_desa": "Pringanom",
+      "dukuh": [
+        "Bakung Kulon",
+        "Bakung Tengah",
+        "Bakung Wetan",
+        "Bampir",
+        "Jembangan",
+        "Jetak",
+        "Mojo",
+        "Pakis Kulon",
+        "Pringanom",
+        "Sadakan",
+        "Sari"
+      ]
+    },
+    {
+      "nama_desa": "Sepat",
+      "dukuh": [
+        "Dawungan",
+        "Gandu",
+        "Gelangan",
+        "Jatirejo",
+        "Mojoroto",
+        "Pilangbangu",
+        "Plosorejo",
+        "Pucuk",
+        "Sarirejo",
+        "Sepat",
+        "Tambakrejo",
+        "Tekikrejo",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Sidodadi",
+      "dukuh": [
+        "Delepan",
+        "Driyan",
+        "Goketen",
+        "Grompol",
+        "Gronong",
+        "Kalitengah",
+        "Kedungrejo",
+        "Kembangan",
+        "Kembu",
+        "Prayunan",
+        "Sidodadi",
+        "Sumberejeki",
+        "Wates"
+      ]
+    },
+    {
+      "nama_desa": "Wonorejo",
+      "dukuh": []
+    }
+  ]
+},
+{
+  "kecamatan": "Miri",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Bagor",
+      "dukuh": [
+        "Bagor",
+        "Bulu",
+        "Jarak",
+        "Jatirejo",
+        "Ngelo",
+        "Wates"
+      ]
+    },
+    {
+      "nama_desa": "Brojol",
+      "dukuh": [
+        "Belik",
+        "Brojol",
+        "Cekel",
+        "Grasak",
+        "Jatirejo",
+        "Ngrawan",
+        "Sambirejo",
+        "Sidomulyo"
+      ]
+    },
+    {
+      "nama_desa": "Doyong",
+      "dukuh": [
+        "Doyong",
+        "Drugan",
+        "Kedungbancik",
+        "Ngledok",
+        "Sambi",
+        "Wuluh"
+      ]
+    },
+    {
+      "nama_desa": "Geneng",
+      "dukuh": [
+        "Geneng",
+        "Jati",
+        "Ngancan",
+        "Pilangrejo"
+      ]
+    },
+    {
+      "nama_desa": "Gilirejo",
+      "dukuh": [
+        "Gilirejo",
+        "Godang",
+        "Jatirejo",
+        "Lorog",
+        "Pungkruk",
+        "Rejosari",
+        "Sonorejo",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Gilirejo Baru",
+      "dukuh": [
+        "Centono",
+        "Donglo",
+        "Jatisari",
+        "Kaloran",
+        "Kleco",
+        "Soko",
+        "Tegalsari"
+      ]
+    },
+    {
+      "nama_desa": "Girimargo",
+      "dukuh": [
+        "Girimargo",
+        "Ngelo",
+        "Selorejo",
+        "Sidomulyo",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Jeruk",
+      "dukuh": [
+        "Bulurejo",
+        "Jeruk",
+        "Randusari",
+        "Rejosari",
+        "Sidorejo"
+      ]
+    },
+    {
+      "nama_desa": "Soko",
+      "dukuh": [
+        "Dongol",
+        "Galang",
+        "Guworejo",
+        "Soko",
+        "Wates"
+      ]
+    },
+    {
+      "nama_desa": "Sunggingan",
+      "dukuh": [
+        "Gunungsari",
+        "Jatibang",
+        "Jatirejo",
+        "Mulyosari",
+        "Sambirejo",
+        "Sidomulyo",
+        "Sidorejo",
+        "Sunggingan",
+        "Tegalrejo"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Mondokan",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Gedawung",
+      "dukuh": [
+        "Asemjajar",
+        "Bangunrejo",
+        "Cungul",
+        "Gedawung",
+        "Jati",
+        "Mundu",
+        "Sawahan",
+        "Titang"
+      ]
+    },
+    {
+      "nama_desa": "Jambangan",
+      "dukuh": [
+        "Dologan",
+        "Jambangan",
+        "Kedungjeru",
+        "Ngreco",
+        "Plosorejo",
+        "Santan"
+      ]
+    },
+    {
+      "nama_desa": "Jekani",
+      "dukuh": [
+        "Gagan",
+        "Jekani",
+        "Ngampal",
+        "Rejosari"
+      ]
+    },
+    {
+      "nama_desa": "Kedawung",
+      "dukuh": [
+        "Dongol",
+        "Kedawung",
+        "Kenanga",
+        "Mulyorejo",
+        "Sambirejo",
+        "Wates"
+      ]
+    },
+    {
+      "nama_desa": "Pare",
+      "dukuh": [
+        "Doyong",
+        "Duren",
+        "Geneng",
+        "Gondang",
+        "Pare",
+        "Plosorejo",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Patihan",
+      "dukuh": [
+        "Gondang",
+        "Gringgingan",
+        "Jatiwayang",
+        "Ngrawan",
+        "Patihan"
+      ]
+    },
+    {
+      "nama_desa": "Sono",
+      "dukuh": [
+        "Geneng",
+        "Karang",
+        "Margorejo",
+        "Ngasinan",
+        "Sawahan",
+        "Sono"
+      ]
+    },
+    {
+      "nama_desa": "Sumberejo",
+      "dukuh": [
+        "Gayam",
+        "Jatirejo",
+        "Jerukan",
+        "Pucung",
+        "Sabak",
+        "Sumberejo"
+      ]
+    },
+    {
+      "nama_desa": "Tempelrejo",
+      "dukuh": [
+        "Dongol",
+        "Grasak",
+        "Jatirejo",
+        "Mulyorejo",
+        "Ngampel",
+        "Tempelrejo"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Ngrampal",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Bandung",
+      "dukuh": [
+        "Babatan",
+        "Bandung",
+        "Gembong",
+        "Karang",
+        "Pucung",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Bener",
+      "dukuh": [
+        "Bener",
+        "Bulakrejo",
+        "Jatirejo",
+        "Ngampunan",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Gabugan",
+      "dukuh": [
+        "Cengklik",
+        "Gabugan",
+        "Jambu",
+        "Karanganyar",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Karangudi",
+      "dukuh": [
+        "Bulu",
+        "Jati",
+        "Jatisari",
+        "Karangudi",
+        "Ngronggah",
+        "Pucung"
+      ]
+    },
+    {
+      "nama_desa": "Kebonromo",
+      "dukuh": [
+        "Bodean",
+        "Jatirejo",
+        "Karanganyar",
+        "Kebonromo",
+        "Mbrangkal",
+        "Plosorejo",
+        "Sumberejo"
+      ]
+    },
+    {
+      "nama_desa": "Klandungan",
+      "dukuh": [
+        "Gembong",
+        "Jatisari",
+        "Klandungan",
+        "Klandungan Lor",
+        "Sendangrejo"
+      ]
+    },
+    {
+      "nama_desa": "Ngarum",
+      "dukuh": [
+        "Gose",
+        "Juwangen",
+        "Ngarum",
+        "Selorejo",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Pilangsari",
+      "dukuh": [
+        "Banjarejo",
+        "Jambeyan",
+        "Karangrejo",
+        "Ngablak",
+        "Pilangsari",
+        "Prampalan",
+        "Sidomulyo",
+        "Taman Asri",
+        "Taman Sari",
+        "Tegalrejo",
+        "Waringinrejo",
+        "Wonorejo"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Plupuh",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Cangkol",
+      "dukuh": [
+        "Betek",
+        "Cangkol",
+        "Dukuh",
+        "Ngemplak",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Dempol",
+      "dukuh": [
+        "Dempol",
+        "Dukuh",
+        "Geneng",
+        "Padas"
+      ]
+    },
+    {
+      "nama_desa": "Gedongan",
+      "dukuh": [
+        "Gedongan",
+        "Jarak",
+        "Tempel",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Jabung",
+      "dukuh": [
+        "Bendorejo",
+        "Jabung",
+        "Jati",
+        "Mundu",
+        "Ngadirejo"
+      ]
+    },
+    {
+      "nama_desa": "Jembangan",
+      "dukuh": [
+        "Dalangan",
+        "Jembangan",
+        "Ngelo",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Karanganyar",
+      "dukuh": [
+        "Bulu",
+        "Karanganyar",
+        "Mundu",
+        "Wates"
+      ]
+    },
+    {
+      "nama_desa": "Karangwaru",
+      "dukuh": [
+        "Belangan",
+        "Karangwaru",
+        "Ngelo",
+        "Plosorejo"
+      ]
+    },
+    {
+      "nama_desa": "Karungan",
+      "dukuh": [
+        "Bapang",
+        "Karungan",
+        "Sidomulyo",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Manyarejo",
+      "dukuh": [
+        "Glonggong",
+        "Manyarejo",
+        "Miri",
+        "Sidorejo"
+      ]
+    },
+    {
+      "nama_desa": "Mojokerto",
+      "dukuh": [
+        "Bulu",
+        "Jarak",
+        "Jatirejo",
+        "Mojokerto",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Ngrombo",
+      "dukuh": [
+        "Bapang",
+        "Godang",
+        "Jati",
+        "Ngrombo",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Plupuh",
+      "dukuh": [
+        "Kenteng",
+        "Nglangak",
+        "Plupuh",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Pungsari",
+      "dukuh": [
+        "Dalangan",
+        "Godang",
+        "Jatirejo",
+        "Ngelo",
+        "Pungsari"
+      ]
+    },
+    {
+      "nama_desa": "Sambirejo",
+      "dukuh": [
+        "Bayanan",
+        "Gagan",
+        "Jambangan",
+        "Sambirejo",
+        "Sidomulyo"
+      ]
+    },
+    {
+      "nama_desa": "Sidokerto",
+      "dukuh": [
+        "Bapang",
+        "Belangan",
+        "Jaten",
+        "Sidokerto",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Somomoro",
+      "dukuh": [
+        "Grasak",
+        "Jaten",
+        "Jatirejo",
+        "Somomoro"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Sambirejo",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Blimbing",
+      "dukuh": [
+        "Blimbing",
+        "Butuh",
+        "Jatisari",
+        "Lemahbang",
+        "Munggur",
+        "Nglebak",
+        "Pencil",
+        "Rejosari"
+      ]
+    },
+    {
+      "nama_desa": "Dawung",
+      "dukuh": [
+        "Banyuripan",
+        "Bayanan",
+        "Dawung",
+        "Gombong",
+        "Jati",
+        "Jetak",
+        "Mundu",
+        "Sambi",
+        "Sambirejo",
+        "Tawangsari"
+      ]
+    },
+    {
+      "nama_desa": "Gedangan",
+      "dukuh": [
+        "Godangrejo",
+        "Karang",
+        "Kedung Gupit",
+        "Pulosari",
+        "Sumberjo"
+      ]
+    },
+    {
+      "nama_desa": "Jambeyan",
+      "dukuh": [
+        "Gagan",
+        "Jambeyan",
+        "Lemahbang",
+        "Ngledok",
+        "Sendang",
+        "Sobayan"
+      ]
+    },
+    {
+      "nama_desa": "Jetis",
+      "dukuh": [
+        "Gondang",
+        "Jatirejo",
+        "Jetis",
+        "Prampalan",
+        "Selorejo",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Kadipiro",
+      "dukuh": [
+        "Buni",
+        "Jatirejo",
+        "Kadipiro",
+        "Karangnongko",
+        "Pencil",
+        "Tegalrejo",
+        "Winong"
+      ]
+    },
+    {
+      "nama_desa": "Musuk",
+      "dukuh": [
+        "Gamping",
+        "Jati",
+        "Jatisari",
+        "Musuk",
+        "Ngadirejo"
+      ]
+    },
+    {
+      "nama_desa": "Sambi",
+      "dukuh": [
+        "Gondang",
+        "Grabagan",
+        "Grasak",
+        "Nglebak",
+        "Sambi"
+      ]
+    },
+    {
+      "nama_desa": "Sambirejo",
+      "dukuh": [
+        "Bendungan",
+        "Dukuh",
+        "Godegan",
+        "Karang",
+        "Karangasem",
+        "Sambirejo",
+        "Sambung"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Sambungmacan",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Banaran",
+      "dukuh": [
+        "Banaran",
+        "Banyuurip",
+        "Jati",
+        "Jatisari",
+        "Ngadirejo",
+        "Pangle",
+        "Rejosari",
+        "Ringinanom"
+      ]
+    },
+    {
+      "nama_desa": "Bedoro",
+      "dukuh": [
+        "Bedoro",
+        "Jatisumo",
+        "Karang",
+        "Kedungpanji",
+        "Mendungsari",
+        "Sidorejo"
+      ]
+    },
+    {
+      "nama_desa": "Cemeng",
+      "dukuh": [
+        "Bulakrejo",
+        "Cemeng",
+        "Jatisari",
+        "Jetak",
+        "Karangrejo",
+        "Pencil",
+        "Ringinrejo",
+        "Sambi",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Gringging",
+      "dukuh": [
+        "Butuh",
+        "Dayu",
+        "Gringging",
+        "Karangrejo",
+        "Ngledok"
+      ]
+    },
+    {
+      "nama_desa": "Karanganyar",
+      "dukuh": [
+        "Bromo",
+        "Bulu",
+        "Karanganyar",
+        "Tunjungan"
+      ]
+    },
+    {
+      "nama_desa": "Plumbon",
+      "dukuh": [
+        "Gading",
+        "Ngablak",
+        "Plumbon",
+        "Plumbungan",
+        "Pondok",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Sambungmacan",
+      "dukuh": [
+        "Gendingan",
+        "Munggur",
+        "Sambungmacan Kulon",
+        "Sambungmacan Wetan"
+      ]
+    },
+    {
+      "nama_desa": "Toyogo",
+      "dukuh": [
+        "Glonggong",
+        "Nglundo",
+        "Sidorejo",
+        "Tegalrejo",
+        "Toyogo"
+      ]
+    },
+    {
+      "nama_desa": "Wonorejo",
+      "dukuh": [
+        "Bejing",
+        "Butuh",
+        "Jati",
+        "Jetis",
+        "Ngudikan",
+        "Sumberjo",
+        "Tegalrejo",
+        "Wonorejo"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Sidoharjo",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Bentak",
+      "dukuh": [
+        "Babadan",
+        "Bentak",
+        "Candi",
+        "Karangmanis",
+        "Sumber",
+        "Tanjungsari",
+        "Tempel",
+        "Tlobongan"
+      ]
+    },
+    {
+      "nama_desa": "Duyungan",
+      "dukuh": [
+        "Babatan",
+        "Bulakrejo",
+        "Duyungan",
+        "Gayam",
+        "Gerdu",
+        "Jasem",
+        "Jetak",
+        "Jetak Tani",
+        "Kaponan",
+        "Ngloru",
+        "Nguwer",
+        "Pengkol",
+        "Sambirejo",
+        "Sengon",
+        "Srimulyo",
+        "Sukorejo"
+      ]
+    },
+    {
+      "nama_desa": "Jambanan",
+      "dukuh": [
+        "Grompolan",
+        "Jambanan",
+        "Jipangan",
+        "Kwayon",
+        "Pijilan",
+        "Singopadu",
+        "Perum Griya Rejo Asri",
+        "Perum Griya Rejo Asri 2"
+      ]
+    },
+    {
+      "nama_desa": "Jetak",
+      "dukuh": [
+        "Bedowo",
+        "Gayam",
+        "Jetak",
+        "Jetak Gayam",
+        "Jetak Kalang",
+        "Jetak Kidul",
+        "Jetak Pabrik",
+        "Jetak Tani",
+        "Kaponan",
+        "Mungkung",
+        "Ngepos",
+        "Sukomarto"
+      ]
+    },
+    {
+      "nama_desa": "Pandak",
+      "dukuh": [
+        "Joho",
+        "Karangmanis",
+        "Karanguni",
+        "Ngelo",
+        "Pandak",
+        "Pojok",
+        "Prampelan"
+      ]
+    },
+    {
+      "nama_desa": "Patihan",
+      "dukuh": [
+        "Baturono",
+        "Bokor",
+        "Gebung",
+        "Gondangan",
+        "Jenak",
+        "Jetis",
+        "Karanganyar",
+        "Kayen",
+        "Makam",
+        "Manisrejo",
+        "Ngepung",
+        "Pasar Ayu",
+        "Patihan",
+        "Patihan Cilik",
+        "Sumberejo",
+        "Winong"
+      ]
+    },
+    {
+      "nama_desa": "Purwosuman",
+      "dukuh": [
+        "Banjar",
+        "Darangan",
+        "Dawangan",
+        "Jenggrik",
+        "Jonggrangan",
+        "Mendeng",
+        "Mojobayi",
+        "Paingan",
+        "Pengan",
+        "Perum Purwoasri",
+        "Purwosuman",
+        "Perum Griya Purwosuman"
+      ]
+    },
+    {
+      "nama_desa": "Sidoharjo",
+      "dukuh": [
+        "Badran",
+        "Banyuning",
+        "Griya Pesona Asri",
+        "Kleco Kulon",
+        "Kleco Wetan",
+        "Kranggan",
+        "Nglebak",
+        "Plasan",
+        "Pungkruk",
+        "Sidoharjo",
+        "Sidomulyo",
+        "Tlobongan",
+        "Wirun"
+      ]
+    },
+    {
+      "nama_desa": "Singopadu",
+      "dukuh": [
+        "Banyuning",
+        "Karangtengah",
+        "Kuwon",
+        "Mojorejo",
+        "Ngrangging",
+        "Plasan",
+        "Senggot",
+        "Singopadu",
+        "Sumber",
+        "Taraman",
+        "Perum Griya Sidoharjo Asri",
+        "Perum Cendana Townhouse",
+        "Perum Griya Rejo Asri",
+        "Perum Griya Rejo Asri 2",
+        "Perum The Bosstania Sragen"
+      ]
+    },
+    {
+      "nama_desa": "Sribit",
+      "dukuh": [
+        "Cermo",
+        "Dukuan",
+        "Kijon",
+        "Ngagel",
+        "Newung",
+        "Sembukan",
+        "Semen",
+        "Sribit",
+        "Tambak"
+      ]
+    },
+    {
+      "nama_desa": "Taraman",
+      "dukuh": [
+        "Bulak",
+        "Karanganom",
+        "Kroyo",
+        "Sembungan",
+        "Taraman"
+      ]
+    },
+    {
+      "nama_desa": "Tenggak",
+      "dukuh": [
+        "Cabeyan",
+        "Metep",
+        "Ngagel",
+        "Nglombo",
+        "Nyawak",
+        "Tenggak"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Sragen",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Karang Tengah",
+      "dukuh": [
+        "Karang",
+        "Karanganyar",
+        "Kliteh",
+        "Mageru"
+      ]
+    },
+    {
+      "nama_desa": "Kedungupit",
+      "kelurahan": true,
+      "dukuh": [
+        "Karangasem",
+        "Kedungupit",
+        "Ngrandu",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Nglorog",
+      "dukuh": [
+        "Candi",
+        "Jetak",
+        "Karang",
+        "Kebayanan",
+        "Mojo",
+        "Nglorog",
+        "Sarigunan",
+        "Sunggingan"
+      ]
+    },
+    {
+      "nama_desa": "Sine",
+      "kelurahan": true,
+      "dukuh": [
+        "Cantel",
+        "Sidomulyo",
+        "Sine",
+        "Sumber Asri",
+        "Sumengko",
+        "Perum Grand Sultan Residence",
+        "Perum Rafii Residence",
+        "Perum Griya Hasanah Residence"
+      ]
+    },
+    {
+      "nama_desa": "Sragen Kulon",
+      "kelurahan": true,
+      "dukuh": [
+        "Baben",
+        "Jetis",
+        "Kauman",
+        "Pecing",
+        "Pungkuk",
+        "Sidomulyo",
+        "Sumengko"
+      ]
+    },
+    {
+      "nama_desa": "Sragen Tengah",
+      "kelurahan": true,
+      "dukuh": [
+        "Gendingan",
+        "Karang Duwo",
+        "Kebayan",
+        "Kutorejo",
+        "Mageru",
+        "Sragen Asri"
+      ]
+    },
+    {
+      "nama_desa": "Sragen Wetan",
+      "kelurahan": true,
+      "dukuh": [
+        "Karangrejo",
+        "Krapyak",
+        "Setren",
+        "Sragen Wetan",
+        "Taman Asri"
+      ]
+    },
+    {
+      "nama_desa": "Tangkil",
+      "kelurahan": true,
+      "dukuh": [
+        "Beloran",
+        "Karang",
+        "Peni",
+        "Sarirejo",
+        "Tangkil"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Sukodono",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Baleharjo",
+      "dukuh": [
+        "Baleharjo",
+        "Bangunrejo",
+        "Cengklik",
+        "Jetis",
+        "Ngasinan",
+        "Sumberejo"
+      ]
+    },
+    {
+      "nama_desa": "Bendo",
+      "dukuh": [
+        "Bendo",
+        "Bunder",
+        "Pojok",
+        "Rejuno"
+      ]
+    },
+    {
+      "nama_desa": "Gebang",
+      "dukuh": [
+        "Bulu",
+        "Gebang",
+        "Gondang",
+        "Karangrejo",
+        "Kwaren",
+        "Tegalombo"
+      ]
+    },
+    {
+      "nama_desa": "Jatitengah",
+      "dukuh": [
+        "Grawan",
+        "Jatitengah",
+        "Karang",
+        "Krikilan",
+        "Nglebak",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Juwok",
+      "dukuh": [
+        "Gagan",
+        "Gayam",
+        "Juwok",
+        "Kalinanas",
+        "Karanganyar",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Karanganom",
+      "dukuh": [
+        "Blimbing",
+        "Dungus",
+        "Karanganom",
+        "Ngawen",
+        "Pengkok"
+      ]
+    },
+    {
+      "nama_desa": "Majenang",
+      "dukuh": [
+        "Banjar",
+        "Dayu",
+        "Jati",
+        "Klepek",
+        "Majenang",
+        "Pungkruk",
+        "Sawahan",
+        "Selorejo"
+      ]
+    },
+    {
+      "nama_desa": "Newung",
+      "dukuh": [
+        "Butuh",
+        "Cungul",
+        "Gagan",
+        "Karangrejo",
+        "Newung",
+        "Sidomulyo",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Pantirejo",
+      "dukuh": [
+        "Banyubiru",
+        "Dongol",
+        "Jatirejo",
+        "Ngampel",
+        "Pantirejo"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Sumberlawang",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Cepoko",
+      "dukuh": [
+        "Cepoko",
+        "Karangtalun",
+        "Kroyo",
+        "Lemahireng",
+        "Soko"
+      ]
+    },
+    {
+      "nama_desa": "Hadiluwih",
+      "dukuh": [
+        "Bawu",
+        "Dalungan",
+        "Dombo",
+        "Gunungsari",
+        "Hadiluwih",
+        "Karangrejo",
+        "Kedungwaru",
+        "Ngasinan",
+        "Ploso",
+        "Sumber"
+      ]
+    },
+    {
+      "nama_desa": "Jati",
+      "dukuh": [
+        "Jati",
+        "Karangrejo",
+        "Krapak",
+        "Soko",
+        "Wotgaleh"
+      ]
+    },
+    {
+      "nama_desa": "Kacangan",
+      "dukuh": [
+        "Brumbung",
+        "Kacangan",
+        "Karanganyar",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Mojopuro",
+      "dukuh": [
+        "Bodro",
+        "Bringin",
+        "Jenggrik",
+        "Karangrejo",
+        "Mojopuro",
+        "Wuluh"
+      ]
+    },
+    {
+      "nama_desa": "Ngandul",
+      "dukuh": [
+        "Dayu",
+        "Karang",
+        "Karangasem",
+        "Kembang",
+        "Mojoranu",
+        "Ngandul",
+        "Pungsari"
+      ]
+    },
+    {
+      "nama_desa": "Ngargosari",
+      "dukuh": [
+        "Gawan",
+        "Gunung Tugel",
+        "Margosari",
+        "Ngargosari",
+        "Plaosan",
+        "Tegalrejo",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Ngargotirto",
+      "dukuh": [
+        "Cungul",
+        "Jambon",
+        "Karangrejo",
+        "Kedawung",
+        "Ngargotirto",
+        "Nglangak",
+        "Tirtomoyo"
+      ]
+    },
+    {
+      "nama_desa": "Pagak",
+      "dukuh": [
+        "Dayu",
+        "Pagak",
+        "Pengkok",
+        "Pocol",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Pendem",
+      "dukuh": [
+        "Bodeh",
+        "Kedungjambal",
+        "Pendem",
+        "Plumbon",
+        "Sigit",
+        "Windusari"
+      ]
+    },
+    {
+      "nama_desa": "Tlogo Tirto",
+      "dukuh": [
+        "Dondong",
+        "Gunungsari",
+        "Jatisari",
+        "Karangrejo",
+        "Kebonagung",
+        "Ngeseng",
+        "Tlogotirto",
+        "Wonorejo"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Sumberlawang",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Cepoko",
+      "dukuh": [
+        "Cepoko",
+        "Karangtalun",
+        "Kroyo",
+        "Lemahireng",
+        "Soko"
+      ]
+    },
+    {
+      "nama_desa": "Hadiluwih",
+      "dukuh": [
+        "Bawu",
+        "Dalungan",
+        "Dombo",
+        "Gunungsari",
+        "Hadiluwih",
+        "Karangrejo",
+        "Kedungwaru",
+        "Ngasinan",
+        "Ploso",
+        "Sumber"
+      ]
+    },
+    {
+      "nama_desa": "Jati",
+      "dukuh": [
+        "Jati",
+        "Karangrejo",
+        "Krapak",
+        "Soko",
+        "Wotgaleh"
+      ]
+    },
+    {
+      "nama_desa": "Kacangan",
+      "dukuh": [
+        "Brumbung",
+        "Kacangan",
+        "Karanganyar",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Mojopuro",
+      "dukuh": [
+        "Bodro",
+        "Bringin",
+        "Jenggrik",
+        "Karangrejo",
+        "Mojopuro",
+        "Wuluh"
+      ]
+    },
+    {
+      "nama_desa": "Ngandul",
+      "dukuh": [
+        "Dayu",
+        "Karang",
+        "Karangasem",
+        "Kembang",
+        "Mojoranu",
+        "Ngandul",
+        "Pungsari"
+      ]
+    },
+    {
+      "nama_desa": "Ngargosari",
+      "dukuh": [
+        "Gawan",
+        "Gunung Tugel",
+        "Margosari",
+        "Ngargosari",
+        "Plaosan",
+        "Tegalrejo",
+        "Wonorejo"
+      ]
+    },
+    {
+      "nama_desa": "Ngargotirto",
+      "dukuh": [
+        "Cungul",
+        "Jambon",
+        "Karangrejo",
+        "Kedawung",
+        "Ngargotirto",
+        "Nglangak",
+        "Tirtomoyo"
+      ]
+    },
+    {
+      "nama_desa": "Pagak",
+      "dukuh": [
+        "Dayu",
+        "Pagak",
+        "Pengkok",
+        "Pocol",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Pendem",
+      "dukuh": [
+        "Bodeh",
+        "Kedungjambal",
+        "Pendem",
+        "Plumbon",
+        "Sigit",
+        "Windusari"
+      ]
+    },
+    {
+      "nama_desa": "Tlogo Tirto",
+      "dukuh": [
+        "Dondong",
+        "Gunungsari",
+        "Jatisari",
+        "Karangrejo",
+        "Kebonagung",
+        "Ngeseng",
+        "Tlogotirto",
+        "Wonorejo"
+      ]
+    }
+  ]
+},
+{
+  "kecamatan": "Tanon",
+  "kabupaten": "Sragen",
+  "data_desa": [
+    {
+      "nama_desa": "Bonagung",
+      "dukuh": [
+        "Bonagung",
+        "Grawan",
+        "Grumbulrejo",
+        "Jati",
+        "Ngasinan"
+      ]
+    },
+    {
+      "nama_desa": "Gabugan",
+      "dukuh": [
+        "Cengklik",
+        "Gabugan",
+        "Karang",
+        "Sendang"
+      ]
+    },
+    {
+      "nama_desa": "Gabus",
+      "dukuh": [
+        "Butuh",
+        "Drugan",
+        "Gabus",
+        "Geneng",
+        "Nglangak",
+        "Patihan"
+      ]
+    },
+    {
+      "nama_desa": "Gading",
+      "dukuh": [
+        "Gading",
+        "Ngabeyan",
+        "Sambirejo",
+        "Sidorejo"
+      ]
+    },
+    {
+      "nama_desa": "Jono",
+      "dukuh": [
+        "Dulas",
+        "Jono",
+        "Karangrejo",
+        "Kepoh",
+        "Kowang"
+      ]
+    },
+    {
+      "nama_desa": "Kalikobok",
+      "dukuh": [
+        "Gonalan",
+        "Kalikobok",
+        "Mangunrejo",
+        "Pangle",
+        "Saren"
+      ]
+    },
+    {
+      "nama_desa": "Karangasem",
+      "dukuh": [
+        "Buni",
+        "Jati",
+        "Karangasem",
+        "Karangtengah",
+        "Ngledok"
+      ]
+    },
+    {
+      "nama_desa": "Karangtalun",
+      "dukuh": [
+        "Banaran",
+        "Banyurip",
+        "Karangtalun",
+        "Kedungjambal",
+        "Patihan"
+      ]
+    },
+    {
+      "nama_desa": "Kecik",
+      "dukuh": [
+        "Bogor",
+        "Juranglebah",
+        "Kecik",
+        "Nglaban"
+      ]
+    },
+    {
+      "nama_desa": "Ketro",
+      "dukuh": [
+        "Boto",
+        "Jantran",
+        "Kedunggupit",
+        "Kemuning",
+        "Ketro",
+        "Saradan"
+      ]
+    },
+    {
+      "nama_desa": "Padas",
+      "dukuh": [
+        "Jati",
+        "Karanganyar",
+        "Ngelo",
+        "Padas",
+        "Sribit"
+      ]
+    },
+    {
+      "nama_desa": "Pengkol",
+      "dukuh": [
+        "Cengklik",
+        "Dukuh",
+        "Pengkol",
+        "Tegalrejo"
+      ]
+    },
+    {
+      "nama_desa": "Sambi",
+      "dukuh": [
+        "Gompang",
+        "Plosorejo",
+        "Sambi",
+        "Saren"
+      ]
+    },
+    {
+      "nama_desa": "Slendro",
+      "dukuh": [
+        "Dukuh",
+        "Gebang",
+        "Ngaglik",
+        "Pojok",
+        "Slendro"
+      ]
+    },
+    {
+      "nama_desa": "Sokiran",
+      "dukuh": [
+        "Banaran",
+        "Gilis",
+        "Jati",
+        "Mulyorejo",
+        "Ngarum",
+        "Pacing",
+        "Sokiran"
+      ]
+    },
+    {
+      "nama_desa": "Suwatu",
+      "dukuh": [
+        "Ngablak",
+        "Ngasinan",
+        "Pencil",
+        "Putat",
+        "Suwatu"
+      ]
+    }
+  ]
+}
+]
