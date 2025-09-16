@@ -154,7 +154,7 @@ def ekstrak_data_via_file_api(prompt_text, path_json, list_path_file):
     Fungsi ini meng-upload SEMUA file (JPG, PNG, PDF) terlebih dahulu,
     lalu mengirim referensinya ke Gemini.
     """
-    model = genai.GenerativeModel('gemini-1.5-flash') 
+    model = genai.GenerativeModel('gemini-1.5-flash-lite') 
     
     try:
         # 1. Siapkan JSON String (path_json sekarang lokal)
@@ -445,3 +445,4 @@ if st.session_state['data_hasil_ai'] is not None:
     except Exception as e:
 
         st.error(f"Gagal membuat file Excel: {e}")
+
