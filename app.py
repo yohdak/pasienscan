@@ -48,7 +48,7 @@ contoh: RT 01 RW 02, RT 03 RW 01, RT 05 RW 04, RT 4A, RT 17, dsb.
 
 berikut adalah contoh format alamat yang benar:
 
-["SIDOMULYO RT 16 RW 1, SIDOHARJO, SRAGEN"
+["PIJILAN RT 16 RW 1,JAMBANAN, SIDOHARJO, SRAGEN"
 "TARAMAN RT 12, TARAMAN, SIDOHARJO SRAGEN"
 "PIJILAN RT 4A, JAMBANAN, SIDOHARJO, SRAGEN"
 "SINGOPADU RT 6, SINGOPADU, SIDOHARJO, SRAGEN"
@@ -57,7 +57,7 @@ berikut adalah contoh format alamat yang benar:
 format alamat adalah: Dukuh RT RW, Desa/Kelurahan, Kecamatan, Kabupaten.
 Data JSON alamat.json yang saya berikan adalah daftar resmi alamat (kecamatan, desa, dukuh) di Kabupaten Sragen yang bisa anda gunakan sebagai referensi.
 
-Fokus anda adalah memperbaiki typo alamat, mentranslate singkatan alamat (Contoh: GSA ->Perum Griya Sidoharjo Asri) dan melengkapi alamat sesuai format.
+Fokus anda adalah mengkoreksi alamat.
 
 Untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
 contoh:
