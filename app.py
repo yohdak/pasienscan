@@ -72,7 +72,7 @@ Saya ingin anda mengecek ulang file json dengan pdf/gambar yang terlampir.
 Fokus anda ada pada Nama dan Tanggal kunjungan.
 Anda sedang memproses data pasien dari Indonesia, sehingga Anda mengenali struktur nama yang umum.
 
-Dibagian tanggal kunjungan tahunnya 2025 bukan null.
+Dibagian tanggal kunjungan kalo misal tahunnya gak diketahui, isi 2025.
 Tanggal kunjungan kalo dari foto, yang biasa tulisannya paling gedhe atau kadang pake spidol, menjelaskan tanggal kunjungan untuk data dibawah bawahnya.
 
 untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
@@ -152,7 +152,7 @@ def ekstrak_data_via_file_api(prompt_text, path_json, list_path_file):
     Fungsi ini meng-upload SEMUA file (JPG, PNG, PDF) terlebih dahulu,
     lalu mengirim referensinya ke Gemini.
     """
-    model = genai.GenerativeModel('gemini-1.5-flash-lite') 
+    model = genai.GenerativeModel('gemini-1.5-flash') 
     
     try:
         # 1. Siapkan JSON String (path_json sekarang lokal)
@@ -298,7 +298,7 @@ if st.button("Mulai Proses Ekstraksi AI"):
 
                 # --- ALUR CHAT BARU (ADA DI DALAM 'TRY') ---
                 
-                model = genai.GenerativeModel('gemini-2.5-flash-lite')
+                model = genai.GenerativeModel('gemini-2.5-flash')
                 
                 # 1. UPLOAD KE GOOGLE API (HANYA SEKALI)
                 st.info(f"Meng-upload {len(list_path_file_temp)} file ke File API...")
