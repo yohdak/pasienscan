@@ -50,6 +50,7 @@ format alamat adalah: Dukuh RT RW, Desa/Kelurahan, Kecamatan, Kabupaten.
 Data JSON alamat.json yang saya berikan adalah daftar resmi alamat (kecamatan, desa, dukuh) di Kabupaten Sragen yang bisa anda gunakan sebagai referensi.
 
 koreksi bagian Alamat saja.
+kalo emang ga ada alamat, biarin kosong aja.
 Untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
 contoh:
 {"No": "5", "Alamat": "PIJILAN RT 16 RW 1,JAMBANAN, SIDOHARJO, SRAGEN"}
@@ -74,6 +75,8 @@ Anda sedang memproses data pasien dari Indonesia, sehingga Anda mengenali strukt
 
 Dibagian tanggal kunjungan kalo misal tahunnya gak diketahui, isi 2025.
 Tanggal kunjungan kalo dari foto, yang biasa tulisannya paling gedhe atau kadang pake spidol, menjelaskan tanggal kunjungan untuk data dibawah bawahnya.
+
+konsekuensinya brarti bagian atasnya gak diketahui kan, nah kalo ketemu kayak gitu, isi aja tanggal kunjungannya dikurang 1 hari dari tanggal dibawahnya.
 
 untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
 contoh:
@@ -152,7 +155,7 @@ def ekstrak_data_via_file_api(prompt_text, path_json, list_path_file):
     Fungsi ini meng-upload SEMUA file (JPG, PNG, PDF) terlebih dahulu,
     lalu mengirim referensinya ke Gemini.
     """
-    model = genai.GenerativeModel('gemini-1.5-flash') 
+    model = genai.GenerativeModel('gemini-2.5-flash') 
     
     try:
         # 1. Siapkan JSON String (path_json sekarang lokal)
