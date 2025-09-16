@@ -155,7 +155,7 @@ def ekstrak_data_via_file_api(prompt_text, path_json, list_path_file):
     Fungsi ini meng-upload SEMUA file (JPG, PNG, PDF) terlebih dahulu,
     lalu mengirim referensinya ke Gemini.
     """
-    model = genai.GenerativeModel('gemini-2.5-flash') 
+    model = genai.GenerativeModel('gemini-2.5-flash-lite') 
     
     try:
         # 1. Siapkan JSON String (path_json sekarang lokal)
@@ -301,7 +301,7 @@ if st.button("Mulai Proses Ekstraksi AI"):
 
                 # --- ALUR CHAT BARU (ADA DI DALAM 'TRY') ---
                 
-                model = genai.GenerativeModel('gemini-2.5-flash')
+                model = genai.GenerativeModel('gemini-2.5-flash-lite')
                 
                 # 1. UPLOAD KE GOOGLE API (HANYA SEKALI)
                 st.info(f"Meng-upload {len(list_path_file_temp)} file ke File API...")
