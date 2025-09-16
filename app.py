@@ -44,7 +44,7 @@ Sajikan hasilnya dalam format JSON.
 prompt1 = """
 RT adalah singkatan dari Rukun Tetangga, sedangkan RW adalah singkatan dari Rukun Warga.
 RT biasa diikuti oleh nomor atau kode yang menunjukkan unit terkecil dalam sistem administrasi wilayah di Indonesia, begitu juga dengan RW.
-contoh: RT 01 RW 02, RT 03 RW 01, RT 05 RW 04, RT 4A, RT 17, dsb.
+contoh: RT 1 RW 2, RT 3, RT 4A, RT 17,RT 5, RW 1, RW 4,RW 14 dsb.
 
 berikut adalah contoh format alamat yang benar:
 
@@ -61,7 +61,7 @@ Fokus anda adalah mengkoreksi alamat.
 
 Untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
 contoh:
-{"No": "5", "Alamat": "SIDOMULYO RT 16 RW 1, SIDOHARJO, SRAGEN"}
+{"No": "5", "Alamat": "PIJILAN RT 16 RW 1,JAMBANAN, SIDOHARJO, SRAGEN"}
 dan seterusnya
 
 Sajikan hasilnya dalam format JSON.
@@ -76,7 +76,7 @@ Fokus anda ada pada Nama dan Tanggal kunjungan.
 Anda sedang memproses data pasien dari Indonesia, sehingga Anda mengenali struktur nama yang umum.
 
 Dibagian tanggal kunjungan tahunnya 2025 bukan null.
-Tanggal kunjungan sebenernya kalo dari foto, modelnya itu menjelaskan tanggal kunjungan untuk data dibawahnya, bukan data diatasnya
+Tanggal kunjungan kalo dari foto yang biasa tulisannya paling gedhe atau kadang pake spidol, menjelaskan tanggal kunjungan untuk data dibawahnya dan seterusnya sampai ketemu tanggal kunjungan baru lainnya.
 
 untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
 contoh:
@@ -96,6 +96,7 @@ Fokus anda ada pada Tanggal Lahir dan Usia.
 Kalo adanya cuma tahun di tanggal lahir, misal 1975, maka ubah menjadi 31-12-1975.
 Kalo tanggal lahir kosong tapi ada usia, Isi dengan : Tahun lahir = 2025 - Usia, bulan = 12, tanggal = 31 
 kalo di bagian tanggal lahir didapati tahunnya cuma 2 digit, misal 75, maka anggap itu 1975.
+
 tolong isi juga usia berdasarkan tanggal lahir dikurang tanggal kunjungan dengan format contoh: 30 tahun 2 bulan 3 hari
 
 untuk memaksimalkan hasilnya, cukup berikan data terkoreksinya saja dengan format No dan Tanggal Lahir.
