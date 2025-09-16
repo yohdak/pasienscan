@@ -300,7 +300,7 @@ if st.button("Mulai Proses Ekstraksi AI"):
 
                 # --- ALUR CHAT BARU (ADA DI DALAM 'TRY') ---
                 
-                model = genai.GenerativeModel('gemini-2.5-flash')
+                model = genai.GenerativeModel('gemini-2.5-flash-lite')
                 
                 # 1. UPLOAD KE GOOGLE API (HANYA SEKALI)
                 st.info(f"Meng-upload {len(list_path_file_temp)} file ke File API...")
@@ -443,4 +443,5 @@ if st.session_state['data_hasil_ai'] is not None:
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
     except Exception as e:
+
         st.error(f"Gagal membuat file Excel: {e}")
