@@ -71,10 +71,8 @@ Saya ingin anda mengecek ulang file json dengan pdf/gambar yang terlampir.
 Fokus anda ada pada Nama dan Tanggal kunjungan.
 Anda sedang memproses data pasien dari Indonesia, sehingga Anda mengenali struktur nama yang umum.
 
-Dibagian tanggal kunjungan kalo misal tahunnya gak diketahui, isi 2025.
-Tanggal kunjungan kalo dari foto, yang biasa tulisannya paling gedhe atau kadang pake spidol, menjelaskan tanggal kunjungan untuk data dibawah bawahnya.
-
-konsekuensinya brarti bagian atasnya gak diketahui kan, nah kalo ketemu kayak gitu, isi aja tanggal kunjungannya dikurang 1 hari dari tanggal dibawahnya.
+data ini berisi data pasien yang berkunjung pada tahun 2025.
+karena ini adalah catatan untuk mendata pasien ditiap harinya, seharusnya pasien beturut turut tanggalnya sama terus sampe nanti ganti hari.
 
 untuk memaksimalkan hasilnya,cukup berikan data terkoreksinya saja dengan format No dan koreksinya.
 contoh:
