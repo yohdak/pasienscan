@@ -3,3 +3,4 @@ streamlit
 pillow
 pandas
 openpyxl
+PyMuPDF
