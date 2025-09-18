@@ -247,7 +247,7 @@ if st.button("Mulai Proses Ekstraksi AI"):
                 list_referensi_file_uploaded = []
                 try:
                     with st.spinner(f"[{idx+1}/{total_files}] Mengirim file ke AI dan menjalankan alur..."):
-                        model = genai.GenerativeModel('gemini-2.5-flash-lite')
+                        model = genai.GenerativeModel('gemini-2.5-flash')
                         chat = model.start_chat()
 
                         # 1. UPLOAD FILE TUNGGAL
